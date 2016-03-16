@@ -14,6 +14,9 @@ Basics
 * Stamina
 * Crouching
 * Day Night Cycle
+* Random Generated World
+* Destroying and Placing blocks
+* Save & Load
 
 Later down the road
 * Hunger System (including ways to get food)
