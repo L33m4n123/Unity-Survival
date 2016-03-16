@@ -9,7 +9,7 @@ As I want some sort of Base Building involved I might use some Voxel Based Optic
 Will be for me the easiest as I can't design levels and will be quite easy for building actually
 
 Basics
-* Basic Movement - Done - commit [2d7530a](https://github.com/L33m4n123/Unity-Survival/commit/2d7530ab8f1c28f0b44ccb352d72701305ab4566)
+* Basic Movement - commit [2d7530a](https://github.com/L33m4n123/Unity-Survival/commit/2d7530ab8f1c28f0b44ccb352d72701305ab4566)
 * Sprinting
 * Stamina
 * Crouching
